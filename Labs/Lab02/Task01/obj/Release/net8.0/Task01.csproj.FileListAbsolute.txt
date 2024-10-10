@@ -1,0 +1,4 @@
+C:\Users\Никита\source\repos\Lab02\Task01\obj\Release\net8.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Lab02\Task01\obj\Release\net8.0\Task01.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Lab02\Task01\obj\Release\net8.0\Task01.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Lab02\Task01\obj\Release\net8.0\Task01.csproj.CoreCompileInputs.cache

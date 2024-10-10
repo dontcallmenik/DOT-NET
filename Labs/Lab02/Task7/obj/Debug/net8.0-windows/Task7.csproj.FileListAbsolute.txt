@@ -1,0 +1,6 @@
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.Form1.resources
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Lab02\Task7\obj\Debug\net8.0-windows\Task7.csproj.CoreCompileInputs.cache

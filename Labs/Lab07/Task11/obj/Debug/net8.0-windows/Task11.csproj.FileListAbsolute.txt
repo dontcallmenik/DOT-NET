@@ -1,0 +1,16 @@
+C:\Users\vladi\source\repos\Lab7\Task11\bin\Debug\net8.0-windows\Task11.exe
+C:\Users\vladi\source\repos\Lab7\Task11\bin\Debug\net8.0-windows\Task11.deps.json
+C:\Users\vladi\source\repos\Lab7\Task11\bin\Debug\net8.0-windows\Task11.runtimeconfig.json
+C:\Users\vladi\source\repos\Lab7\Task11\bin\Debug\net8.0-windows\Task11.dll
+C:\Users\vladi\source\repos\Lab7\Task11\bin\Debug\net8.0-windows\Task11.pdb
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\KeyPressExample.Form1.resources
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.dll
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\refint\Task11.dll
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.pdb
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\Task11.genruntimeconfig.cache
+C:\Users\vladi\source\repos\Lab7\Task11\obj\Debug\net8.0-windows\ref\Task11.dll

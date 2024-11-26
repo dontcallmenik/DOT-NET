@@ -1,0 +1,8 @@
+To: user@example.com
+Theme: Важное сообщение
+Text: Привет! Как дела?
+---
+To: anotheruser@example.com
+Theme: Напоминание
+Text: Не забудьте о встрече завтра.
+---

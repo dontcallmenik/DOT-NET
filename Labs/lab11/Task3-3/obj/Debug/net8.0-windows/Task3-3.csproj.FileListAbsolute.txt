@@ -1,0 +1,17 @@
+C:\Users\vladi\source\repos\Lab11\Task3-3\bin\Debug\net8.0-windows\Task3-3.exe
+C:\Users\vladi\source\repos\Lab11\Task3-3\bin\Debug\net8.0-windows\Task3-3.deps.json
+C:\Users\vladi\source\repos\Lab11\Task3-3\bin\Debug\net8.0-windows\Task3-3.runtimeconfig.json
+C:\Users\vladi\source\repos\Lab11\Task3-3\bin\Debug\net8.0-windows\Task3-3.dll
+C:\Users\vladi\source\repos\Lab11\Task3-3\bin\Debug\net8.0-windows\Task3-3.pdb
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\SquareCalculator.InputForm.resources
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\SquareCalculator.ResultForm.resources
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.dll
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\refint\Task3-3.dll
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.pdb
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\Task3-3.genruntimeconfig.cache
+C:\Users\vladi\source\repos\Lab11\Task3-3\obj\Debug\net8.0-windows\ref\Task3-3.dll

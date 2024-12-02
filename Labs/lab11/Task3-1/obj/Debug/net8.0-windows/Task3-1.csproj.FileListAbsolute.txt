@@ -1,0 +1,16 @@
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\SquareCalculator.Form1.resources
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Lab11\Task3-1\bin\Debug\net8.0-windows\Task3-1.exe
+C:\Users\vladi\source\repos\Lab11\Task3-1\bin\Debug\net8.0-windows\Task3-1.deps.json
+C:\Users\vladi\source\repos\Lab11\Task3-1\bin\Debug\net8.0-windows\Task3-1.runtimeconfig.json
+C:\Users\vladi\source\repos\Lab11\Task3-1\bin\Debug\net8.0-windows\Task3-1.dll
+C:\Users\vladi\source\repos\Lab11\Task3-1\bin\Debug\net8.0-windows\Task3-1.pdb
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.dll
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\refint\Task3-1.dll
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.pdb
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\Task3-1.genruntimeconfig.cache
+C:\Users\vladi\source\repos\Lab11\Task3-1\obj\Debug\net8.0-windows\ref\Task3-1.dll

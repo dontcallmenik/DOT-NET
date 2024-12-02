@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\source\\repos\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|c:\\users\\vladi\\source\\repos\\lab9\\task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|solutionrelative:task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|c:\\users\\vladi\\source\\repos\\lab9\\task7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|solutionrelative:task7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|c:\\users\\vladi\\source\\repos\\lab9\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1209D821-CCFD-4A35-9204-FAB155BDEC81}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Form1.cs",
+              "RelativeDocumentMoniker": "Task7\\Form1.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Form1.cs",
+              "RelativeToolTip": "Task7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:34.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Form1.Designer.cs",
+              "RelativeToolTip": "Task7\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Lab9\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:27.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

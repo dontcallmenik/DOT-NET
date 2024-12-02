@@ -1,0 +1,14 @@
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Lab10\Task1\bin\Debug\net8.0-windows\Task1.exe
+C:\Users\vladi\source\repos\Lab10\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+C:\Users\vladi\source\repos\Lab10\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+C:\Users\vladi\source\repos\Lab10\Task1\bin\Debug\net8.0-windows\Task1.dll
+C:\Users\vladi\source\repos\Lab10\Task1\bin\Debug\net8.0-windows\Task1.pdb
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.dll
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.pdb
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+C:\Users\vladi\source\repos\Lab10\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
